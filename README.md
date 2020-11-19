@@ -1,9 +1,3 @@
 ﻿# Random Forest Stock Predictor
-Utilizing the ensemble method of random forests to predict stock prices, based on the results of Khaidem, Saha, & Dey (2016).
-Group course project for *Ensemble Methods of Machine Learning*, summer semester 2017 at the University of Osnabrück.
-### Usage
-1. Clone repo with: \
-```git clone https://github.com/johnberroa/RandomForest-StockPredictor.git```
-2. Use the [Technical Analysis Notebook.ipynb](Technical%20Analysis%20Notebook.ipynb) to generate indicators by running the whole notebook.
-  This will save them to the file ```data_preprocces.csv```. 
-3. Next run the [Random Forest Notebook.ipynb](Random%20Forest%20Notebook.ipynb). The Results can be found in the results directory.
+Stock Market Analysis and Prediction is a project using data provided by Google Finance for technical analysis, visualisation, and prediction. By looking at stock market details, particularly some giant technology stocks and others. Pandas are used to obtain stock details, imagine various aspects of it and finally look at a few ways to assess a stock's risk based on its previous performance history. Future stock values expected by a Monte Carlo technique!
+
